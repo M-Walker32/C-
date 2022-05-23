@@ -1,0 +1,15 @@
+/Users/mariawalker/source/codeworks/week9/C#/bin/Debug/net6.0/codeworks
+/Users/mariawalker/source/codeworks/week9/C#/bin/Debug/net6.0/codeworks.deps.json
+/Users/mariawalker/source/codeworks/week9/C#/bin/Debug/net6.0/codeworks.runtimeconfig.json
+/Users/mariawalker/source/codeworks/week9/C#/bin/Debug/net6.0/codeworks.dll
+/Users/mariawalker/source/codeworks/week9/C#/bin/Debug/net6.0/codeworks.pdb
+/Users/mariawalker/source/codeworks/week9/C#/obj/Debug/net6.0/codeworks.csproj.AssemblyReference.cache
+/Users/mariawalker/source/codeworks/week9/C#/obj/Debug/net6.0/codeworks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariawalker/source/codeworks/week9/C#/obj/Debug/net6.0/codeworks.AssemblyInfoInputs.cache
+/Users/mariawalker/source/codeworks/week9/C#/obj/Debug/net6.0/codeworks.AssemblyInfo.cs
+/Users/mariawalker/source/codeworks/week9/C#/obj/Debug/net6.0/codeworks.csproj.CoreCompileInputs.cache
+/Users/mariawalker/source/codeworks/week9/C#/obj/Debug/net6.0/codeworks.dll
+/Users/mariawalker/source/codeworks/week9/C#/obj/Debug/net6.0/refint/codeworks.dll
+/Users/mariawalker/source/codeworks/week9/C#/obj/Debug/net6.0/codeworks.pdb
+/Users/mariawalker/source/codeworks/week9/C#/obj/Debug/net6.0/codeworks.genruntimeconfig.cache
+/Users/mariawalker/source/codeworks/week9/C#/obj/Debug/net6.0/ref/codeworks.dll
